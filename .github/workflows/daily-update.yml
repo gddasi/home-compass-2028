@@ -30,7 +30,8 @@ jobs:
         run: |
           git config user.name "home-compass-bot"
           git config user.email "home-compass-bot@users.noreply.github.com"
-          git add data/daily.json data/daily.js data/market-history.json
+          git add data/daily.json data/daily.js
+          if [ -f data/market-history.json ]; then git add data/market-history.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "data: refresh public housing feed"
             git pull --rebase origin main
