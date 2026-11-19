@@ -17,6 +17,7 @@ import os
 import pathlib
 import re
 import sys
+from development_radar import build_monitor
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -31,7 +32,7 @@ HEADERS = {
     "User-Agent": "HomeCompassPersonalDashboard/1.0 (noncommercial; public RSS/APIs)",
     "Accept": "application/rss+xml, application/xml, application/json, text/xml, */*",
 }
-KEYWORDS = ("주택", "주담대", "대출", "부동산", "가계부채", "DSR", "LTV", "신혼", "디딤돌", "보금자리", "주거", "재건축", "재개발", "도시계획", "교통", "철도", "정비", "공급", "분양", "금리", "모아타운", "GTX", "전세")
+KEYWORDS = ("신안산선", "인덕원동탄", "신분당선", "광역전철", "모아주택", "신속통합기획", "도시철도", "택지개발", "신도시", "주택", "주담대", "대출", "부동산", "가계부채", "DSR", "LTV", "신혼", "디딤돌", "보금자리", "주거", "재건축", "재개발", "도시계획", "교통", "철도", "정비", "공급", "분양", "금리", "모아타운", "GTX", "전세")
 
 
 def fetch(url: str, timeout=18) -> bytes:
@@ -46,6 +47,26 @@ def google_rss(query: str) -> str:
 
 
 SOURCES = [
+    {
+        "name": "국토교통부 철도·광역교통 탐색", "topic": "development", "source": "공식 도메인 탐색 · molit.go.kr",
+        "url": google_rss("site:molit.go.kr (GTX OR 광역철도 OR 철도망 OR 도시철도 OR 지하철 OR 신안산선)"),
+    },
+    {
+        "name": "국가철도공단 주요사업 발표 탐색", "topic": "development", "source": "공식 도메인 탐색 · kr.or.kr",
+        "url": google_rss("site:kr.or.kr (철도 OR GTX OR 광역철도 OR 철도망 OR 개통 OR 착공)"),
+    },
+    {
+        "name": "경기도 철도·정비사업 발표 탐색", "topic": "development", "source": "공식 도메인 탐색 · gg.go.kr",
+        "url": google_rss("site:gg.go.kr (철도 OR 도시철도 OR GTX OR 재개발 OR 정비사업 OR 신도시)"),
+    },
+    {
+        "name": "인천시 철도·도시정비 발표 탐색", "topic": "development", "source": "공식 도메인 탐색 · incheon.go.kr",
+        "url": google_rss("site:incheon.go.kr (도시철도 OR GTX OR 철도망 OR 재건축 OR 재개발 OR 정비사업)"),
+    },
+    {
+        "name": "서울시 정비사업 발표 탐색", "topic": "development", "source": "공식 도메인 탐색 · seoul.go.kr",
+        "url": google_rss("site:seoul.go.kr (재건축 OR 재개발 OR 정비구역 OR 신속통합기획 OR 모아타운)"),
+    },
     {
         "name": "금융위원회 보도자료 RSS", "topic": "finance", "source": "금융위원회",
         "url": "https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111",
@@ -362,7 +383,7 @@ def main():
         seen.add(item["id"])
         item["new"] = had_prior_run and item["id"] not in old_ids
         news.append(item)
-    news = news[:120]
+    news = news[:320]
     if not any(s["ok"] for s in health):
         health.append({"name": "수집 실패: 원문 링크 확인 필요", "ok": False})
     trades, market, trade_health = get_trades()
@@ -383,7 +404,14 @@ def main():
         history = {'months': sorted(snapshots, key=lambda x: x['month'])[-24:]}
         history_file.write_text(json.dumps(history, ensure_ascii=False, separators=(',', ':'))+'\n', encoding='utf-8')
     summary = ai_brief(news) if any(x["new"] for x in news) or not old.get("ai_summary") else old["ai_summary"]
+    # Persistent public-only development announcement history and diff detection.
+    dev_file = ROOT / "data" / "development-history.json"
+    dev_previous = read_json(dev_file, {"events": []})
+    development, dev_history = build_monitor(news, read_json(REGIONS_JSON, []), dev_previous,
+                                             NOW.strftime("%Y-%m-%d"))
+    dev_file.write_text(json.dumps(dev_history, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     obj = {
+        "development": development,
         "generated_at": NOW.strftime("%Y-%m-%d %H:%M UTC"),
         "news": news,
         "trades": trades,
