@@ -110,6 +110,7 @@ def build_monitor(news: list[dict], regions: list[dict], previous: dict | None =
     old_events = {x["id"]: x for x in previous.get("events", []) if x.get("id")}
     bootstrapping = not bool(previous.get("updated_at"))
     seen_now = set()
+    genuinely_new = set()
     for item in news:
         event = event_from_news(item, regions, checked_at)
         if not event:
@@ -118,6 +119,8 @@ def build_monitor(news: list[dict], regions: list[dict], previous: dict | None =
         if k in seen_now:
             continue
         seen_now.add(k)
+        if k not in old_events and not bootstrapping:
+            genuinely_new.add(k)
         if k in old_events:
             event["first_seen"] = old_events[k].get("first_seen", checked_at)
         old_events[k] = event
@@ -125,7 +128,7 @@ def build_monitor(news: list[dict], regions: list[dict], previous: dict | None =
     history_events = sorted((x for x in old_events.values() if x.get("date", "") >= keep_after),
                             key=lambda x: (x.get("date", ""), x.get("id", "")), reverse=True)[:750]
     for x in history_events:
-        x["is_new"] = not bootstrapping and x["id"] in seen_now and x["first_seen"] == checked_at
+        x["is_new"] = x["id"] in genuinely_new
         x["status_verified"] = False  # never infer administrative approval from headlines
     visible = history_events[:250]
     dashboard = {
