@@ -197,13 +197,9 @@ def request_month(region, mon, key):
         page += 1
     if total_rows is not None and page * page_size < total_rows:
         raise RuntimeError(f'Pagination limit reached {code}/{mon}: total={total_rows}')
-    uniq = {}
-    for deal in collected:
-        # Some transfers may have identical unit/price/day/floor; preserve API duplicates if present
-        # rather than falsely asserting a unique property transaction identifier.
-        token = (deal['region'], deal['apt'], deal['date'], deal['price'], deal['sqm'], deal['floor'])
-        uniq[token] = deal
-    return list(uniq.values())
+    # Keep every reported transaction, including apparently identical contracts.
+    # A building, day, price, area and floor combination is not a unique contract ID.
+    return collected
 
 
 def market_snapshot(deals, regions, months, failures):
