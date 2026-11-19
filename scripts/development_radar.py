@@ -32,7 +32,7 @@ URBAN = (
 CHANGES = ("연기", "지연", "취소", "중단", "변경", "재검토", "보류", "철회", "무산", "기간연장", "일정조정")
 PHASES = (
     ("지연·변경", ("연기", "지연", "취소", "중단", "변경", "보류", "철회", "무산", "재검토")),
-    ("개통·준공", ("개통", "준공", "완공", "개장")),
+    ("개통·준공", ("개통", "준공", "완공", "개장", "공사완료")),
     ("착공·공사", ("착공", "공사 시작", "공사착수", "공사 착수")),
     ("관리처분", ("관리처분",)),
     ("사업시행인가", ("사업시행인가", "사업시행계획인가")),
@@ -43,6 +43,9 @@ PHASES = (
 PARENTS = ("고양시", "부천시", "성남시", "수원시", "안산시", "안양시", "용인시", "화성시")
 
 def category(title: str) -> str | None:
+    # Exclude generic administrative regulations and facilities unrelated to housing choice.
+    if "운영규정" in title or re.search(r"도시계획시설\\((?:시장|자동차정류장)\\)", title):
+        return None
     name = title.lower()
     if any(k in name for k in RAIL):
         return "rail"
@@ -107,7 +110,8 @@ def build_monitor(news: list[dict], regions: list[dict], previous: dict | None =
                   checked_at: str | None = None) -> tuple[dict, dict]:
     checked_at = checked_at or dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     previous = previous or {}
-    old_events = {x["id"]: x for x in previous.get("events", []) if x.get("id")}
+    old_events = {x["id"]: x for x in previous.get("events", [])
+                  if x.get("id") and category(x.get("title", "")) is not None}
     bootstrapping = not bool(previous.get("updated_at"))
     seen_now = set()
     genuinely_new = set()
@@ -128,6 +132,7 @@ def build_monitor(news: list[dict], regions: list[dict], previous: dict | None =
     history_events = sorted((x for x in old_events.values() if x.get("date", "") >= keep_after),
                             key=lambda x: (x.get("date", ""), x.get("id", "")), reverse=True)[:750]
     for x in history_events:
+        x["stage_hint"] = headline_stage(x["title"])
         x["is_new"] = x["id"] in genuinely_new
         x["status_verified"] = False  # never infer administrative approval from headlines
     visible = history_events[:250]
