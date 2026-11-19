@@ -1,5 +1,13 @@
 name: Daily public housing data update
 on:
+  push:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'index.html'
+      - 'development-radar.js'
+      - 'development-radar.css'
+      - 'README.md'
   workflow_dispatch:
   schedule:
     # 09:10 KST (00:10 UTC). GitHub scheduled runs may be delayed.
@@ -30,7 +38,7 @@ jobs:
         run: |
           git config user.name "home-compass-bot"
           git config user.email "home-compass-bot@users.noreply.github.com"
-          git add data/daily.json data/daily.js
+          git add data/daily.json data/daily.js data/development-history.json
           if [ -f data/market-history.json ]; then git add data/market-history.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "data: refresh public housing feed"
