@@ -44,7 +44,7 @@ PARENTS = ("고양시", "부천시", "성남시", "수원시", "안산시", "안
 
 def category(title: str) -> str | None:
     # Exclude generic administrative regulations and facilities unrelated to housing choice.
-    if "운영규정" in title or re.search(r"도시계획시설\\((?:시장|자동차정류장)\\)", title):
+    if "운영규정" in title or re.search(r"도시계획시설\((?:시장|자동차정류장)\)", title):
         return None
     name = title.lower()
     if any(k in name for k in RAIL):
