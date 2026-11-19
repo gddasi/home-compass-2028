@@ -17,7 +17,10 @@ import os
 import pathlib
 import re
 import sys
-from development_radar import build_monitor
+try:
+    from development_radar import build_monitor
+except ModuleNotFoundError:
+    from scripts.development_radar import build_monitor
 import urllib.error
 import urllib.parse
 import urllib.request
