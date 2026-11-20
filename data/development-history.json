@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "events": [
-    {
-      "id": "cf46b8d909cae7c30d",
-      "category": "urban",
-      "title": "도시계획시설(시장)사업 공사완료 공고 > 고시공고 | 서울특별시 - 서울특별시",
-      "date": "2026-11-19",
-      "source": "뉴스 검색 · seoul.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QeUV3SlF1cGpjV1U0ZGxMTV96aEUxQkNsSEdEUVdzSzNfR3M0bmZmenc0ZDc4ZzJIZ1pSc28wSTJfajZ4LV84cTZiWXFwelIxYmttTGt4YzZFSGxPSllvSGw0U283VTA?oc=5",
-      "stage_hint": "제목에 '개통·준공' 관련 표현",
-      "change_hint": false,
-      "region": "",
-      "metro": "서울",
-      "scope": "서울 전체·지역 미특정",
-      "region_exact": false,
-      "first_seen": "2026-11-19"
-    },
-    {
-      "id": "7488366ff619710bbe",
-      "category": "urban",
-      "title": "도시계획시설(자동차정류장)사업 공사완료 공고 > 고시공고 | 서울특별시 - 서울특별시",
-      "date": "2026-11-19",
-      "source": "뉴스 검색 · seoul.go.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DYUVZd1Q3OWZkVTJyb3lDR0x2cFd4alBTTEo2cXZjX2dva1VFd2VxVXhTeGxoam5TZ3BGMW96YjM0MDlPTFd0OUFOUGNSaW1IeU5vd2F1U2FhVGhNOU1NRk03V0NqZmc?oc=5",
-      "stage_hint": "제목에 '개통·준공' 관련 표현",
-      "change_hint": false,
-      "region": "",
-      "metro": "서울",
-      "scope": "서울 전체·지역 미특정",
-      "region_exact": false,
-      "first_seen": "2026-11-19"
-    },
     {
       "id": "069068dcd04362ca54",
       "category": "urban",
@@ -120,6 +90,21 @@
       "scope": "인천 전체·지역 미특정",
       "region_exact": false,
       "first_seen": "2026-11-19"
+    },
+    {
+      "id": "25655223aa0a94a8dc",
+      "category": "renewal",
+      "title": "인천시, 정비사업 속도 낸다. 사전컨설팅 운영체계 대폭 개선 - 인천광역시",
+      "date": "2026-11-04",
+      "source": "공식 도메인 탐색 · incheon.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1c0X1FLV045M2hHYTlDbVlEUVRRZTA5Qks1aHAzcmUxOGVOSlJYQzZUTWRsczVJMjVJdlR1cEdlN2otdE52Z0VidGt4U19zMUNsYkJZZXVkaDZBYmZNejNPcmJ4T04taFpTaWN2SG1kN1BsWnRLN1h6amZDRGhDUFh6VUFmemQ3ZFp1MQ?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "인천",
+      "scope": "인천 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-20"
     },
     {
       "id": "6b1dccfcc0051ae544",
