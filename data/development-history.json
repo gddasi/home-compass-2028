@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-20",
+  "updated_at": "2026-11-21",
   "events": [
+    {
+      "id": "217ad13357335162c5",
+      "category": "rail",
+      "title": "경기도가 제안한 경인선 등 철도지하화 4개 사업, 정부 종합계획안에 포함 - 경기도뉴스포털",
+      "date": "2026-11-20",
+      "source": "공식 도메인 탐색 · gg.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGZYRGJudDhCQlBpbkU1VkducnNRWnRuZEhKdHM1Um5Ubkxsd3hqV0t2aWd3cjMtMFhIb1V4VlZaQm1fTU9OYlFjajREWE5Qd0xEMVE3MVNfazdJWXY1a1Axb2FJeDVLdFhpeE13SUZ2ckRPVXF3NnlabE1na19LTmZrcUY?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "경기",
+      "scope": "경기 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-21"
+    },
     {
       "id": "069068dcd04362ca54",
       "category": "urban",
