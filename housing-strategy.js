@@ -110,6 +110,7 @@ function render(){
  '<div class="hs-tabs">'+Object.keys(M.PRESETS).map(k=>'<button type="button" class="hs-tab" aria-pressed="'+(k===mode)+
  '" onclick="window.housingStrategyPreset(\''+k+'\')">'+esc(M.PRESETS[k].title)+'</button>').join('')+'</div>'+
  '<div class="hs-explainer">이 시뮬레이션은 미래를 예측하지 않습니다. 선택한 가정 아래에서만 계산하며, **원화 약세·고물가 시나리오도 발생을 전제로 하지 않습니다.** 초기 자본과 월 예산을 모든 선택지에 동일하게 적용하고 남는 자금은 설정한 투자비율로 운용하는 것으로 가정합니다.</div>'+
+ '<div class="hs-watch">모든 최초 입력값(주택가격·월세·월 예산·금리·환율·태양광·ESS 관련 비용)은 비교 방법을 보여주기 위한 <b>가상 예시</b>입니다. 본인의 계약 조건·월 예산·실제 견적으로 변경한 뒤 해석하세요.</div>'+ 
  '<div class="hs-layout" style="margin-top:16px"><div class="hs-inputs">'+
  '<section class="hs-panel"><h4>① 자금·기간 설정</h4>'+
  '<label class="hs-toggle"><input type="checkbox" '+(x.usePlan?'checked':'')+
