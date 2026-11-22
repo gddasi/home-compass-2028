@@ -36,12 +36,14 @@ jobs:
           node --check housing-strategy.js
           node tests/test_strategy.js
       - name: Update public data feeds
+        if: github.event_name != 'push'
         env:
           MOLIT_SERVICE_KEY: ${{ secrets.MOLIT_SERVICE_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
         run: python scripts/update_data.py
       - name: Save public-only daily feed
+        if: github.event_name != 'push'
         run: |
           git config user.name "home-compass-bot"
           git config user.email "home-compass-bot@users.noreply.github.com"
