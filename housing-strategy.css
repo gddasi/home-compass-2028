@@ -1,0 +1,49 @@
+/* HOME COMPASS v1.2 — Housing strategy, same visual language as dashboard. */
+.hs-app{color:var(--ink)}
+.hs-app h3{font-size:17px;margin:0;letter-spacing:-.02em}
+.hs-app h4{font-size:14px;margin:0 0 10px}
+.hs-app p{margin:5px 0}
+.hs-app .hs-top{display:flex;justify-content:space-between;align-items:start;flex-wrap:wrap;gap:12px}
+.hs-app .hs-muted{color:var(--muted);font-size:12px}
+.hs-app .hs-badges{display:flex;gap:7px;flex-wrap:wrap;align-items:center}
+.hs-app .hs-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}
+.hs-app .hs-tab{background:#fff;color:#4c6b69;border:1px solid #d3e2de;border-radius:9px;padding:10px 13px;font-weight:750}
+.hs-app .hs-tab[aria-pressed=true]{background:#e5f4ee;color:#086b63;border-color:#79bdb2}
+.hs-app .hs-layout{display:grid;grid-template-columns:minmax(300px,.95fr) minmax(320px,1.3fr);gap:18px;align-items:start}
+.hs-app .hs-panel{background:#fff;border:1px solid #e0e9e7;border-radius:16px;padding:19px;margin-bottom:14px}
+.hs-app .hs-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.hs-app .hs-field{min-width:0}
+.hs-app .hs-field label{display:block;font-size:11px;color:#5d7375;font-weight:750;margin-bottom:5px}
+.hs-app .hs-field .hs-input-wrap{display:flex;align-items:center;border:1px solid #d8e2e0;border-radius:8px;padding:0 9px;background:white}
+.hs-app .hs-field input{min-width:0;width:100%;border:0;outline:0;padding:10px 4px;background:transparent;color:#152b32;font-size:13px}
+.hs-app .hs-field input:disabled{color:#879c9a}
+.hs-app .hs-field .hs-unit{font-size:11px;color:#90a09e;white-space:nowrap}
+.hs-app .hs-field small{display:block;font-size:10px;color:#9aabaa;margin-top:3px}
+.hs-app .hs-small{font-size:11px;line-height:1.65;color:#728785}
+.hs-app .hs-toggle{display:flex;align-items:center;gap:7px;cursor:pointer;font-size:12px;color:#375c56;margin:9px 0}
+.hs-app .hs-toggle input{accent-color:#0e8075}
+.hs-app details.hs-panel{padding:0}
+.hs-app details summary{cursor:pointer;padding:16px 19px;font-weight:800;font-size:13px}
+.hs-app details .hs-details{padding:0 19px 19px}
+.hs-app .hs-results{display:grid;gap:11px}
+.hs-app .hs-result{border:1px solid #e1eae8;border-radius:12px;padding:15px;background:#fcfefd}
+.hs-app .hs-result .hs-head{display:flex;justify-content:space-between;align-items:baseline;gap:9px}
+.hs-app .hs-result .hs-real{font-weight:850;font-size:23px;letter-spacing:-.05em;color:#176c65}
+.hs-app .hs-result .hs-sub{font-size:11px;color:#6b817f;line-height:1.8}
+.hs-app .hs-result.hs-invalid{border-color:#f0dfc5;background:#fffaf4}
+.hs-app .hs-result.hs-invalid .hs-real{font-size:14px;color:#9f6e37}
+.hs-app .hs-result.hs-alert{border-color:#e3bf8e}
+.hs-app .hs-bar{height:7px;background:#e9f1ef;border-radius:8px;margin-top:11px;overflow:hidden}
+.hs-app .hs-bar i{height:100%;display:block;background:#6baea4;border-radius:8px}
+.hs-app .hs-explainer{padding:12px 14px;background:#f4f8f7;border-left:3px solid #97c9bb;border-radius:0 8px 8px 0;font-size:11px;color:#526e69;line-height:1.8}
+.hs-app .hs-watch{padding:12px 14px;background:#fff8ed;border-left:3px solid #dcba81;border-radius:0 8px 8px 0;font-size:11px;color:#785e44;line-height:1.85}
+.hs-app .hs-table-wrap{overflow-x:auto;margin-top:12px}
+.hs-app table{border-collapse:collapse;width:100%}
+.hs-app td,.hs-app th{font-size:11px;padding:11px 9px;border-bottom:1px solid #edf2f0;white-space:nowrap;text-align:right}
+.hs-app td:first-child,.hs-app th:first-child{text-align:left}
+.hs-app th{background:#f5f9f8;color:#617f79}
+.hs-app .hs-positive{color:#216e5f}
+.hs-app .hs-note{font-size:11px;color:#748985;line-height:1.85;margin-top:14px}
+.hs-app .hs-recalc{font-size:11px;color:#1b6e63;white-space:nowrap}
+@media(max-width:1190px){.hs-app .hs-layout{grid-template-columns:1fr}}
+@media(max-width:540px){.hs-app .hs-fields{grid-template-columns:1fr 1fr;gap:10px}.hs-app .hs-panel{padding:14px}.hs-app details summary{padding:14px}.hs-app details .hs-details{padding:0 14px 14px}.hs-app .hs-result .hs-real{font-size:20px}}
