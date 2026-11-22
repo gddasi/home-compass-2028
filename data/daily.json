@@ -1,6 +1,6 @@
 {
   "development": {
-    "generated_at": "2026-11-21",
+    "generated_at": "2026-11-22",
     "events": [
       {
         "id": "217ad13357335162c5",
@@ -16,7 +16,7 @@
         "scope": "경기 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-21",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -361,12 +361,21 @@
       }
     ],
     "total_events": 21,
-    "new_count": 1,
+    "new_count": 0,
     "change_count": 1,
     "method": "공식기관 도메인 관련 발표 제목 자동탐색. 제목의 단계·일정 표현은 검증 전 신호이며 실제 추진 단계·개통 예정일을 확정하지 않습니다."
   },
-  "generated_at": "2026-11-21 01:14 UTC",
+  "generated_at": "2026-11-22 01:09 UTC",
   "news": [
+    {
+      "id": "758513c190e7544028",
+      "title": "21일 오후 탈선사고 현장 점검 및 가용한 대체열차 투입 당부 - 국토교통부",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtV1l4SGdETTBrREZkRE9DVVB3TUw5aHhDNDc3RHNueUxNQkU2REx5dWtRelhOVmswQkVsQVVXVHF0d0FOOFpveF9LN2VSTWxXY3I2bkVlNGh6NUs1c2tWaDBXVXBxY1YxUHpNeWp1ejJHNG4wbWZB?oc=5",
+      "date": "2026-11-21",
+      "topic": "housing",
+      "source": "뉴스 검색 · molit.go.kr",
+      "new": true
+    },
     {
       "id": "73aaf816ca909a911b",
       "title": "청년미래적금 금리 비교 - 소비자포털 - 전국은행연합회 - 소비자포털",
@@ -383,7 +392,7 @@
       "date": "2026-11-20",
       "topic": "development",
       "source": "공식 도메인 탐색 · gg.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "7488366ff619710bbe",
@@ -431,13 +440,22 @@
       "new": false
     },
     {
+      "id": "e3c94bdbbb2e92cdb8",
+      "title": "국토교통부에서 알려드립니다 - 국토교통부",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDazE4eXEtVlFSTUxDNVQ0V2JzN0hjVHVJMVVJbkt1bmhxM05yQVhfRlFFbklsRlV4dGpUa0VFcnRNS3FKTzEwbHFwaFNCSXJHZENmNUx2S0FFR2JySkQ0UnBZQWNnZmhjWTl5RE5BcFNzcXRlZU9Z?oc=5",
+      "date": "2026-11-17",
+      "topic": "housing",
+      "source": "뉴스 검색 · molit.go.kr",
+      "new": true
+    },
+    {
       "id": "9e7894a6402252fb47",
       "title": "수험생 여러분 응원합니다! 19일 수능 전방위 교통지원 - 서울특별시",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aYWl6RFdoR2thYjVWb3BvckczbkEzMlZ3X29oN0x2OUc1aEU4UXFUNVZ3YXhldjhvaDB1eFU2U1pQdkdZbVBjNVhPdktXbEQxUDROLVNFUF8?oc=5",
       "date": "2026-11-17",
       "topic": "development",
       "source": "뉴스 검색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "f1ea14feb0d8cae235",
@@ -737,6 +755,15 @@
       "new": false
     },
     {
+      "id": "10a3afc4b04182af71",
+      "title": "260701_3èÄ ¤¸ ¤DSR › ÀÄ À½Ü›.hwpx - 금융규제·법령해석포털",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOQ0dRUXJrVldNLUtaYUpqYWhEeW1KS1hwX2ZZU2tGU0JVVWVxUjFLTDljZmVlNnZ5aG5WZkVuVl9PbWxlbUFEcG1SSUtCUThmMW53YmRZRmdPZDVJeU51M256aGxPWFJpZkx6dzVjaFUycWN1QWhfRTJ1a1QzVjBkMW81S1dEWXE2NDlBYWxic1dmQlNXRGZkcGktaXFIMzh1Zm80TzFSaVR5LUdsUU5qUnFWX3N5ZmdPYzg4R01KaVFVelJ3VWRJZ3NRWWFTSVFwV1QtczluZXExS3NoeGV5N3pZUjYwYTVwdmZjMkQ2ZFlSazNSSUFyNjl0Z0VGVEp6aTJOQkdGWmRCNzFxV2tPS09TU2p0YVdHZDJDUC0xUUNORVNaSVlvWXA5bkJlS21IeEo4MHBYWG0ycjg1ZnFlUldtVllpeF9MQ2VkNzEyRFdheHBwZExndWxiTTJuMC1RYlNqNzFzdmZrSE1FWC1ndlVPUi1Db0IxRmZUTk5XdGdLS0lmZ0xRYjdNXy1wdkQxZnRSbXNtdkg?oc=5",
+      "date": "2026-08-15",
+      "topic": "finance",
+      "source": "뉴스 검색 · fsc.go.kr",
+      "new": true
+    },
+    {
       "id": "c27bff092c692b7d62",
       "title": "보도자료 - 국토교통부",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YZDJFaU9pN25VV2RjVlhCTnBPSWVBTFZLVjI3bng3RFphUGthanNNa05OdW1rOGNrcW5XMV9oQk9Wam9VNFpXVW5ELXhOZ1BubkpYU0RtS1Rqajd1UnljOTIzUE5rRUxRdkdCTlFKR2hKcl83N1Qw?oc=5",
@@ -774,6 +801,36 @@
     }
   ],
   "trades": [
+    {
+      "region": "경기 용인시 처인구",
+      "code": "41461",
+      "apt": "서희스타힐스포레스트",
+      "date": "2026-11-21",
+      "price": 55000,
+      "sqm": 84.45,
+      "floor": "27",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 처인구",
+      "code": "41461",
+      "apt": "인정빌리지1",
+      "date": "2026-11-21",
+      "price": 20000,
+      "sqm": 59.93,
+      "floor": "7",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 처인구",
+      "code": "41461",
+      "apt": "e편한세상용인한숲시티6단지",
+      "date": "2026-11-21",
+      "price": 44000,
+      "sqm": 90.51,
+      "floor": "2",
+      "dealId": "개인"
+    },
     {
       "region": "인천 제물포구",
       "code": "28125",
@@ -942,6 +999,16 @@
       "price": 18700,
       "sqm": 59.94,
       "floor": "8",
+      "dealId": "개인"
+    },
+    {
+      "region": "서울 영등포구",
+      "code": "11560",
+      "apt": "현대1차",
+      "date": "2026-11-20",
+      "price": 107300,
+      "sqm": 64.38,
+      "floor": "1",
       "dealId": "개인"
     },
     {
@@ -1172,6 +1239,26 @@
       "price": 41500,
       "sqm": 84.67,
       "floor": "10",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 처인구",
+      "code": "41461",
+      "apt": "용인명지대역동원로얄듀크",
+      "date": "2026-11-20",
+      "price": 56800,
+      "sqm": 60.0,
+      "floor": "9",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 처인구",
+      "code": "41461",
+      "apt": "삼환나우빌",
+      "date": "2026-11-20",
+      "price": 44800,
+      "sqm": 84.93,
+      "floor": "4",
       "dealId": "개인"
     },
     {
@@ -18713,66 +18800,6 @@
       "sqm": 64.93,
       "floor": "3",
       "dealId": "개인"
-    },
-    {
-      "region": "경기 여주시",
-      "code": "41670",
-      "apt": "여주역센트레빌트리니체",
-      "date": "2026-11-13",
-      "price": 35500,
-      "sqm": 66.97,
-      "floor": "5",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 여주시",
-      "code": "41670",
-      "apt": "상우1차",
-      "date": "2026-11-13",
-      "price": 11000,
-      "sqm": 59.53,
-      "floor": "14",
-      "dealId": "법인"
-    },
-    {
-      "region": "경기 여주시",
-      "code": "41670",
-      "apt": "세광리치타운(101동-108동)",
-      "date": "2026-11-13",
-      "price": 6700,
-      "sqm": 58.74,
-      "floor": "14",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 양평군",
-      "code": "41830",
-      "apt": "양평역한라비발디",
-      "date": "2026-11-13",
-      "price": 47500,
-      "sqm": 84.48,
-      "floor": "3",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 양주시",
-      "code": "41630",
-      "apt": "옥정역로제비앙메트로파크1단지",
-      "date": "2026-11-13",
-      "price": 38000,
-      "sqm": 84.91,
-      "floor": "20",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 양주시",
-      "code": "41630",
-      "apt": "양주옥정LH엘리프",
-      "date": "2026-11-13",
-      "price": 28000,
-      "sqm": 51.98,
-      "floor": "10",
-      "dealId": "개인"
     }
   ],
   "market": [
@@ -19417,7 +19444,7 @@
       "region": "서울 성북구",
       "metro": "서울",
       "code": "11290",
-      "count": 429,
+      "count": 428,
       "months": [
         {
           "month": "2026-11",
@@ -19475,12 +19502,12 @@
         },
         {
           "month": "2026-09",
-          "count": 178,
+          "count": 177,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 75,
-              "median": 90000
+              "count": 74,
+              "median": 89750
             },
             {
               "band": "60~84㎡",
@@ -19690,7 +19717,7 @@
       "region": "서울 노원구",
       "metro": "서울",
       "code": "11350",
-      "count": 1009,
+      "count": 1008,
       "months": [
         {
           "month": "2026-11",
@@ -19721,11 +19748,11 @@
         },
         {
           "month": "2026-10",
-          "count": 475,
+          "count": 474,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 305,
+              "count": 304,
               "median": 58000
             },
             {
@@ -20145,7 +20172,7 @@
       "region": "서울 강서구",
       "metro": "서울",
       "code": "11500",
-      "count": 616,
+      "count": 615,
       "months": [
         {
           "month": "2026-11",
@@ -20176,12 +20203,12 @@
         },
         {
           "month": "2026-10",
-          "count": 263,
+          "count": 262,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 146,
-              "median": 81000
+              "count": 145,
+              "median": 81500
             },
             {
               "band": "60~84㎡",
@@ -20418,11 +20445,11 @@
       "region": "서울 영등포구",
       "metro": "서울",
       "code": "11560",
-      "count": 315,
+      "count": 317,
       "months": [
         {
           "month": "2026-11",
-          "count": 45,
+          "count": 47,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -20431,7 +20458,7 @@
             },
             {
               "band": "60~84㎡",
-              "count": 18,
+              "count": 20,
               "median": 146750
             },
             {
@@ -20502,7 +20529,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 45,
+      "currentMonthCount": 47,
       "complete": true
     },
     {
@@ -20600,7 +20627,7 @@
       "region": "서울 관악구",
       "metro": "서울",
       "code": "11620",
-      "count": 330,
+      "count": 329,
       "months": [
         {
           "month": "2026-11",
@@ -20631,12 +20658,12 @@
         },
         {
           "month": "2026-10",
-          "count": 162,
+          "count": 161,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 85,
-              "median": 67000
+              "count": 84,
+              "median": 68000
             },
             {
               "band": "60~84㎡",
@@ -22602,7 +22629,7 @@
       "region": "경기 광주시",
       "metro": "경기",
       "code": "41610",
-      "count": 711,
+      "count": 710,
       "months": [
         {
           "month": "2026-11",
@@ -22660,7 +22687,7 @@
         },
         {
           "month": "2026-09",
-          "count": 265,
+          "count": 264,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -22669,8 +22696,8 @@
             },
             {
               "band": "60~84㎡",
-              "count": 190,
-              "median": 47650
+              "count": 189,
+              "median": 47500
             },
             {
               "band": "85~114㎡",
@@ -22784,7 +22811,7 @@
       "region": "경기 군포시",
       "metro": "경기",
       "code": "41410",
-      "count": 1143,
+      "count": 1142,
       "months": [
         {
           "month": "2026-11",
@@ -22815,11 +22842,11 @@
         },
         {
           "month": "2026-10",
-          "count": 539,
+          "count": 538,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 347,
+              "count": 346,
               "median": 40000
             },
             {
@@ -22966,7 +22993,7 @@
       "region": "경기 남양주시",
       "metro": "경기",
       "code": "41360",
-      "count": 1704,
+      "count": 1703,
       "months": [
         {
           "month": "2026-11",
@@ -23024,12 +23051,12 @@
         },
         {
           "month": "2026-09",
-          "count": 672,
+          "count": 671,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 174,
-              "median": 32750
+              "count": 173,
+              "median": 32800
             },
             {
               "band": "60~84㎡",
@@ -23785,7 +23812,7 @@
       "region": "경기 수원시 권선구",
       "metro": "경기",
       "code": "41113",
-      "count": 1140,
+      "count": 1139,
       "months": [
         {
           "month": "2026-11",
@@ -23843,7 +23870,7 @@
         },
         {
           "month": "2026-09",
-          "count": 469,
+          "count": 468,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -23852,7 +23879,7 @@
             },
             {
               "band": "60~84㎡",
-              "count": 239,
+              "count": 238,
               "median": 54000
             },
             {
@@ -25059,26 +25086,26 @@
       "region": "경기 용인시 처인구",
       "metro": "경기",
       "code": "41461",
-      "count": 577,
+      "count": 583,
       "months": [
         {
           "month": "2026-11",
-          "count": 118,
+          "count": 124,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 47,
-              "median": 34500
+              "count": 48,
+              "median": 33650
             },
             {
               "band": "60~84㎡",
-              "count": 68,
-              "median": 41850
+              "count": 72,
+              "median": 43000
             },
             {
               "band": "85~114㎡",
-              "count": 2,
-              "median": 41750
+              "count": 3,
+              "median": 44000
             },
             {
               "band": "115㎡ 이상",
@@ -25143,7 +25170,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 118,
+      "currentMonthCount": 124,
       "complete": true
     },
     {
@@ -26330,7 +26357,7 @@
       "complete": true
     }
   ],
-  "market_as_of": "2026-11-21",
+  "market_as_of": "2026-11-22",
   "signals": [
     {
       "region": "광진구",
@@ -26365,11 +26392,11 @@
       "ok": false
     },
     {
-      "name": "금융위원회 공식자료 탐색 (1건)",
+      "name": "금융위원회 공식자료 탐색 (2건)",
       "ok": true
     },
     {
-      "name": "국토교통부 공식자료 탐색 (0건)",
+      "name": "국토교통부 공식자료 탐색 (2건)",
       "ok": true
     },
     {
