@@ -1,7 +1,24 @@
 {
   "development": {
-    "generated_at": "2026-11-22",
+    "generated_at": "2026-11-23",
     "events": [
+      {
+        "id": "f703d703425f5a75fb",
+        "category": "rail",
+        "title": "경기도, 철도 파업 현실화 대비 버스 증회·막차 연장 등 비상수송대책 마련 - 경기도뉴스포털",
+        "date": "2026-11-22",
+        "source": "공식 도메인 탐색 · gg.go.kr",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWhISXY5SGkyTVhWcTRaTVNfQktxUDRBR0ZtNC1FY2ZVTi1yR3k0RjMwVVRuQ09vdmNkeHdwZndxMnBCaE0wemxrc2VTaDhYSk5wT3RnbHFtc0JFM2Q4ZnlLVE1WUmI3ZW94N0pBNWFNdU5XblZpNWRyN1pPUmRhT0ZUZmg?oc=5",
+        "stage_hint": "단계 미확인 (원문 확인 필요)",
+        "change_hint": false,
+        "region": "",
+        "metro": "경기",
+        "scope": "경기 전체·지역 미특정",
+        "region_exact": false,
+        "first_seen": "2026-11-23",
+        "is_new": true,
+        "status_verified": false
+      },
       {
         "id": "2859c51b5541072816",
         "category": "renewal",
@@ -16,7 +33,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -169,7 +186,7 @@
         "scope": "지역 미특정·노선 전체 가능",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -203,7 +220,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -271,7 +288,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -339,7 +356,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -356,7 +373,7 @@
         "scope": "서울 성북구",
         "region_exact": true,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -424,7 +441,7 @@
         "scope": "서울 강남구",
         "region_exact": true,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -441,7 +458,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -458,7 +475,7 @@
         "scope": "서울 강동구",
         "region_exact": true,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -475,7 +492,7 @@
         "scope": "서울 서초구",
         "region_exact": true,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -492,7 +509,7 @@
         "scope": "서울 관악구",
         "region_exact": true,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -509,7 +526,7 @@
         "scope": "서울 구로구",
         "region_exact": true,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -526,7 +543,7 @@
         "scope": "서울 강북구",
         "region_exact": true,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -577,7 +594,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -628,7 +645,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -645,7 +662,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -662,7 +679,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -755,7 +772,7 @@
         "category": "renewal",
         "title": "[정책소식] 모아주택·모아타운 온라인 아카이브 공개 안내 - 분야별 정보",
         "date": "2026-08-27",
-        "source": "뉴스 검색 · seoul.go.kr",
+        "source": "공식 도메인 탐색 · seoul.go.kr",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeC1IYXBsU0o5Z3RzUkNzR19fUkxqbkFMblVnNkpMamFHUHl5TDlMLXVyVWszOXFGYWFGS0xJQUFlUFJPUzZ4QTJxUGtvWHMyY2swVFlkUVJ0UnF4b2xF?oc=5",
         "stage_hint": "단계 미확인 (원문 확인 필요)",
         "change_hint": false,
@@ -781,7 +798,7 @@
         "scope": "서울 전체·지역 미특정",
         "region_exact": false,
         "first_seen": "2026-11-22",
-        "is_new": true,
+        "is_new": false,
         "status_verified": false
       },
       {
@@ -823,7 +840,7 @@
         "category": "renewal",
         "title": "정비사업 > 모아타운 > 취소현황 - 정비사업 정보몽땅",
         "date": "2026-08-06",
-        "source": "뉴스 검색 · seoul.go.kr",
+        "source": "공식 도메인 탐색 · seoul.go.kr",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DSDBSNzZkX0lhMkxyWFRjVkVfVkliMVhYdVZ1dGVnaTh2Y1Q1UDA3ZFk5VDZzbkhKeFhueUpnRU1WbHNobTNGYjM5b2Nnd2U0eW9XM1RUTnlLLVNoWlpmaQ?oc=5",
         "stage_hint": "제목에 '지연·변경' 관련 표현",
         "change_hint": true,
@@ -853,20 +870,20 @@
         "status_verified": false
       }
     ],
-    "total_events": 50,
-    "new_count": 18,
+    "total_events": 51,
+    "new_count": 1,
     "change_count": 2,
     "method": "공식기관 도메인 관련 발표 제목 자동탐색. 제목의 단계·일정 표현은 검증 전 신호이며 실제 추진 단계·개통 예정일을 확정하지 않습니다."
   },
-  "generated_at": "2026-11-22 09:48 UTC",
+  "generated_at": "2026-11-23 01:15 UTC",
   "news": [
     {
-      "id": "2859c51b5541072816",
-      "title": "(석간) 서울시, 재개발·재건축 `8만 5천 호 신속 착공` 발표 > 보도자료 | 서울특별시 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BQzRhazQzMERSVGtSbjZaN2RCOXJUck9Kdms5SnRzakU2Q19kUHVlNk5zRmJ3bVJjUF9mcVZ0Z2gxQmVBLWl5bHJ3WHpiN0tpV0V2b2E2cFlFd2hjbFpnNEJkbmJfb1Y0bDdHUFFTYkJDZC1O?oc=5",
-      "date": "2026-11-21",
+      "id": "f703d703425f5a75fb",
+      "title": "경기도, 철도 파업 현실화 대비 버스 증회·막차 연장 등 비상수송대책 마련 - 경기도뉴스포털",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWhISXY5SGkyTVhWcTRaTVNfQktxUDRBR0ZtNC1FY2ZVTi1yR3k0RjMwVVRuQ09vdmNkeHdwZndxMnBCaE0wemxrc2VTaDhYSk5wT3RnbHFtc0JFM2Q4ZnlLVE1WUmI3ZW94N0pBNWFNdU5XblZpNWRyN1pPUmRhT0ZUZmg?oc=5",
+      "date": "2026-11-22",
       "topic": "development",
-      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "source": "공식 도메인 탐색 · gg.go.kr",
       "new": true
     },
     {
@@ -876,6 +893,15 @@
       "date": "2026-11-21",
       "topic": "bank",
       "source": "뉴스 검색 · kfb.or.kr",
+      "new": false
+    },
+    {
+      "id": "2859c51b5541072816",
+      "title": "(석간) 서울시, 재개발·재건축 `8만 5천 호 신속 착공` 발표 > 보도자료 | 서울특별시 - 서울특별시",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BQzRhazQzMERSVGtSbjZaN2RCOXJUck9Kdms5SnRzakU2Q19kUHVlNk5zRmJ3bVJjUF9mcVZ0Z2gxQmVBLWl5bHJ3WHpiN0tpV0V2b2E2cFlFd2hjbFpnNEJkbmJfb1Y0bDdHUFFTYkJDZC1O?oc=5",
+      "date": "2026-11-21",
+      "topic": "development",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
       "new": false
     },
     {
@@ -951,21 +977,21 @@
       "new": false
     },
     {
-      "id": "e3c94bdbbb2e92cdb8",
-      "title": "국토교통부에서 알려드립니다 - 국토교통부",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDazE4eXEtVlFSTUxDNVQ0V2JzN0hjVHVJMVVJbkt1bmhxM05yQVhfRlFFbklsRlV4dGpUa0VFcnRNS3FKTzEwbHFwaFNCSXJHZENmNUx2S0FFR2JySkQ0UnBZQWNnZmhjWTl5RE5BcFNzcXRlZU9Z?oc=5",
-      "date": "2026-11-17",
-      "topic": "housing",
-      "source": "뉴스 검색 · molit.go.kr",
-      "new": false
-    },
-    {
       "id": "9e7894a6402252fb47",
       "title": "수험생 여러분 응원합니다! 19일 수능 전방위 교통지원 - 서울특별시",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aYWl6RFdoR2thYjVWb3BvckczbkEzMlZ3X29oN0x2OUc1aEU4UXFUNVZ3YXhldjhvaDB1eFU2U1pQdkdZbVBjNVhPdktXbEQxUDROLVNFUF8?oc=5",
       "date": "2026-11-17",
       "topic": "development",
       "source": "뉴스 검색 · seoul.go.kr",
+      "new": false
+    },
+    {
+      "id": "e3c94bdbbb2e92cdb8",
+      "title": "국토교통부에서 알려드립니다 - 국토교통부",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDazE4eXEtVlFSTUxDNVQ0V2JzN0hjVHVJMVVJbkt1bmhxM05yQVhfRlFFbklsRlV4dGpUa0VFcnRNS3FKTzEwbHFwaFNCSXJHZENmNUx2S0FFR2JySkQ0UnBZQWNnZmhjWTl5RE5BcFNzcXRlZU9Z?oc=5",
+      "date": "2026-11-17",
+      "topic": "housing",
+      "source": "뉴스 검색 · molit.go.kr",
       "new": false
     },
     {
@@ -1092,7 +1118,7 @@
       "date": "2026-11-11",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "b7601f2a535671bf94",
@@ -1128,7 +1154,7 @@
       "date": "2026-11-10",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "63125c6d4d93af5ac0",
@@ -1173,7 +1199,7 @@
       "date": "2026-11-04",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "adf405ef980bf1e1bb",
@@ -1209,7 +1235,7 @@
       "date": "2026-11-03",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "76e9e8840578be087f",
@@ -1218,7 +1244,7 @@
       "date": "2026-10-28",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "4e6302f3436b848601",
@@ -1239,27 +1265,27 @@
       "new": false
     },
     {
+      "id": "6b1dccfcc0051ae544",
+      "title": "[동북권] 광진구 신향빌라 재건축 - 분야별 정보",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aNHZaWG0taG50ekF2azJSYXlEdmFTYkd6MU91MnY3QUdmVDZISFUtaUR1OEhNM1dPcFR0b1pXQTdTQmNHODBoNS1BUUZMenlGb3ZYcVhHaURhb2FHMTJn?oc=5",
+      "date": "2026-10-22",
+      "topic": "development",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "new": false
+    },
+    {
       "id": "02f9031f6fbcdb0b77",
       "title": "서울시, 수서택지 4개 단지 재건축‘현장 합동 신속통합자문’실시 > 보도자료 | 서울특별시 - 서울특별시",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rUmdVZVU2ZEFGS3BkZWw1NXB5YjBDNGh1NkpBa055VUcwSzVQcm9faTYxUE1jdllFRHF5dTRmQUNMODdwbTFiZkp1ZXNxVVVSUEFsT2FyZ0J3OS1MRzBJaWtEeWhRM20zd012T0x2TGpFMVRf?oc=5",
       "date": "2026-10-22",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "15c62944a120cfce89",
       "title": "[동남권] 강남구 압구정 2,3,4,5구역 재건축 - 분야별 정보",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xcnNpdzFaTVJ1U3c4dnNOaFNsY0hGdDhHRzY4bkZHdTljSno1b041Z3FBOFgyRVNHV185U0thdEFkT2VpMThxcU4tTUpnSjZoYkpaMThOR01ERGp2bVp3?oc=5",
-      "date": "2026-10-22",
-      "topic": "development",
-      "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
-    },
-    {
-      "id": "6b1dccfcc0051ae544",
-      "title": "[동북권] 광진구 신향빌라 재건축 - 분야별 정보",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aNHZaWG0taG50ekF2azJSYXlEdmFTYkd6MU91MnY3QUdmVDZISFUtaUR1OEhNM1dPcFR0b1pXQTdTQmNHODBoNS1BUUZMenlGb3ZYcVhHaURhb2FHMTJn?oc=5",
       "date": "2026-10-22",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
@@ -1272,7 +1298,7 @@
       "date": "2026-10-21",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "a76036f5b6a99ea07a",
@@ -1281,7 +1307,7 @@
       "date": "2026-10-21",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "715c9ff50e068f202e",
@@ -1290,7 +1316,7 @@
       "date": "2026-10-21",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "a536953c9bfc9e3b46",
@@ -1299,7 +1325,7 @@
       "date": "2026-10-21",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "53481c7da4d387ab83",
@@ -1308,7 +1334,7 @@
       "date": "2026-10-21",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "254940a5b3cae4d6e8",
@@ -1338,21 +1364,21 @@
       "new": false
     },
     {
-      "id": "5ee96aa53111e047b4",
-      "title": "(석간) 서울시, `재개발·재건축 등 정비사업 추진현황` 6개월마다 상세 공개 > 보도자료 | 서울특별시 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0NjNGR2pCenJhNkNKZjNCejMwNEZMS21QVGdTQm54dzZaOE44RHZ2UlZHOXowejFiSW9jNUo1UlFjTGg0ZTI4V0ZBRHc2WnFjUGt6bk1QbWZGcnVoS2ViY2tMd0xUZzg?oc=5",
-      "date": "2026-10-16",
-      "topic": "development",
-      "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
-    },
-    {
       "id": "7db74fe2a07bc2de09",
       "title": "청년미래적금 금리 - 소비자포털 - 전국은행연합회 - 소비자포털",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UM215YzY0VTM1SU1sdWFNVlVyUF90WDljalpYS0NQaXRMYVlISF9nWGZzejE1bUtWeUlIaDZod1RXVFpITnpod3dxTDNDVjNXTzl1bGVjTm1LTjdqVDd5WDBBYVVxNnAteGhF?oc=5",
       "date": "2026-10-16",
       "topic": "bank",
       "source": "뉴스 검색 · kfb.or.kr",
+      "new": false
+    },
+    {
+      "id": "5ee96aa53111e047b4",
+      "title": "(석간) 서울시, `재개발·재건축 등 정비사업 추진현황` 6개월마다 상세 공개 > 보도자료 | 서울특별시 - 서울특별시",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0NjNGR2pCenJhNkNKZjNCejMwNEZMS21QVGdTQm54dzZaOE44RHZ2UlZHOXowejFiSW9jNUo1UlFjTGg0ZTI4V0ZBRHc2WnFjUGt6bk1QbWZGcnVoS2ViY2tMd0xUZzg?oc=5",
+      "date": "2026-10-16",
+      "topic": "development",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
       "new": false
     },
     {
@@ -1380,7 +1406,7 @@
       "date": "2026-10-12",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "dbb69f9c7dee4c4bea",
@@ -1389,7 +1415,7 @@
       "date": "2026-10-11",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "eb7ccdb9396c12b5c8",
@@ -1398,7 +1424,7 @@
       "date": "2026-10-10",
       "topic": "development",
       "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
+      "new": false
     },
     {
       "id": "55ad7b313ee3cdcdea",
@@ -1478,7 +1504,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeC1IYXBsU0o5Z3RzUkNzR19fUkxqbkFMblVnNkpMamFHUHl5TDlMLXVyVWszOXFGYWFGS0xJQUFlUFJPUzZ4QTJxUGtvWHMyY2swVFlkUVJ0UnF4b2xF?oc=5",
       "date": "2026-08-27",
       "topic": "development",
-      "source": "뉴스 검색 · seoul.go.kr",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
       "new": false
     },
     {
@@ -1500,15 +1526,6 @@
       "new": false
     },
     {
-      "id": "5e418696aafc3f0f68",
-      "title": "신정4동 922 일대, 신속통합기획 확정, 국회대로 상부공원 품은 초품아 역세권 주거단지로 조성 > 보도자료 | 서울특별시 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzAxSEdaSW1mQnlUYm9qN3dFUTFyb1ZMMGMydWZUWTctc1N4YkFUTXN4dzg0Tzhza0NTeW4yS3FDbDltVjRWUHlqOWNVcTd6RjhLSDhXVFkyNU5IMk8wcEhfU1hKaUVZN21GSU9IQko3WjZSZHlMZC1PWlNhNnprZVpGQUM4WTJBSjVabXhpTlFoeDlw?oc=5",
-      "date": "2026-08-20",
-      "topic": "development",
-      "source": "공식 도메인 탐색 · seoul.go.kr",
-      "new": true
-    },
-    {
       "id": "3753aab1141e92e7ce",
       "title": "자율주택정비사업 안내 - 분야별 정보",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZYUl6ZUhkY1h3NXptWlY5a2ZSNE5lMXlfc25VZ0tCRTQ4ZnlQVnZQYWY3U0hQSUtCaTVFa1ZYa1huMy1uZmtKczZHUHY2VHloNWJmZ21JM2cwNG5UeWNj?oc=5",
@@ -1524,6 +1541,15 @@
       "date": "2026-08-20",
       "topic": "development",
       "source": "뉴스 검색 · seoul.go.kr",
+      "new": false
+    },
+    {
+      "id": "5e418696aafc3f0f68",
+      "title": "신정4동 922 일대, 신속통합기획 확정, 국회대로 상부공원 품은 초품아 역세권 주거단지로 조성 > 보도자료 | 서울특별시 - 서울특별시",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzAxSEdaSW1mQnlUYm9qN3dFUTFyb1ZMMGMydWZUWTctc1N4YkFUTXN4dzg0Tzhza0NTeW4yS3FDbDltVjRWUHlqOWNVcTd6RjhLSDhXVFkyNU5IMk8wcEhfU1hKaUVZN21GSU9IQko3WjZSZHlMZC1PWlNhNnprZVpGQUM4WTJBSjVabXhpTlFoeDlw?oc=5",
+      "date": "2026-08-20",
+      "topic": "development",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
       "new": false
     },
     {
@@ -1559,7 +1585,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DSDBSNzZkX0lhMkxyWFRjVkVfVkliMVhYdVZ1dGVnaTh2Y1Q1UDA3ZFk5VDZzbkhKeFhueUpnRU1WbHNobTNGYjM5b2Nnd2U0eW9XM1RUTnlLLVNoWlpmaQ?oc=5",
       "date": "2026-08-06",
       "topic": "development",
-      "source": "뉴스 검색 · seoul.go.kr",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
       "new": false
     },
     {
@@ -1610,6 +1636,36 @@
       "price": 44000,
       "sqm": 90.51,
       "floor": "2",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
+      "apt": "수지신봉동도센트리움",
+      "date": "2026-11-21",
+      "price": 72000,
+      "sqm": 69.79,
+      "floor": "19",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "연꽃마을벽산",
+      "date": "2026-11-21",
+      "price": 60000,
+      "sqm": 84.96,
+      "floor": "20",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 고양시 일산동구",
+      "code": "41285",
+      "apt": "백송마을(임광)",
+      "date": "2026-11-21",
+      "price": 39200,
+      "sqm": 84.27,
+      "floor": "5",
       "dealId": "개인"
     },
     {
@@ -2075,6 +2131,26 @@
     {
       "region": "경기 용인시 수지구",
       "code": "41465",
+      "apt": "벽산블루밍4단지",
+      "date": "2026-11-20",
+      "price": 114500,
+      "sqm": 84.8,
+      "floor": "11",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
+      "apt": "현암마을동성2차",
+      "date": "2026-11-20",
+      "price": 100000,
+      "sqm": 60.0,
+      "floor": "7",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
       "apt": "용인수지휴엔하임",
       "date": "2026-11-20",
       "price": 83000,
@@ -2115,11 +2191,51 @@
     {
       "region": "경기 수원시 장안구",
       "code": "41111",
+      "apt": "비단마을영풍",
+      "date": "2026-11-20",
+      "price": 86000,
+      "sqm": 122.84,
+      "floor": "10",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "동신1단지",
+      "date": "2026-11-20",
+      "price": 29000,
+      "sqm": 56.71,
+      "floor": "1",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "수원장안힐스테이트",
+      "date": "2026-11-20",
+      "price": 76000,
+      "sqm": 84.99,
+      "floor": "7",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
       "apt": "북수원자이렉스비아",
       "date": "2026-11-20",
       "price": 106000,
       "sqm": 84.36,
       "floor": "4",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "포레나북수원",
+      "date": "2026-11-20",
+      "price": 75800,
+      "sqm": 64.79,
+      "floor": "22",
       "dealId": "개인"
     },
     {
@@ -2320,6 +2436,16 @@
       "price": 25000,
       "sqm": 40.27,
       "floor": "11",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 고양시 일산동구",
+      "code": "41285",
+      "apt": "백마마을(금호)",
+      "date": "2026-11-20",
+      "price": 53500,
+      "sqm": 83.77,
+      "floor": "1",
       "dealId": "개인"
     },
     {
@@ -2690,6 +2816,16 @@
       "price": 59000,
       "sqm": 59.89,
       "floor": "2",
+      "dealId": "개인"
+    },
+    {
+      "region": "서울 영등포구",
+      "code": "11560",
+      "apt": "삼성래미안",
+      "date": "2026-11-19",
+      "price": 131000,
+      "sqm": 84.91,
+      "floor": "18",
       "dealId": "개인"
     },
     {
@@ -3173,6 +3309,16 @@
       "dealId": "개인"
     },
     {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
+      "apt": "성복역 서희스타힐스",
+      "date": "2026-11-19",
+      "price": 94500,
+      "sqm": 84.52,
+      "floor": "22",
+      "dealId": "개인"
+    },
+    {
       "region": "경기 용인시 기흥구",
       "code": "41463",
       "apt": "강남마을자연앤(4단지)",
@@ -3300,6 +3446,26 @@
       "price": 56000,
       "sqm": 59.92,
       "floor": "7",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "수원장안힐스테이트",
+      "date": "2026-11-19",
+      "price": 66000,
+      "sqm": 59.99,
+      "floor": "12",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "연꽃마을벽산",
+      "date": "2026-11-19",
+      "price": 60000,
+      "sqm": 84.96,
+      "floor": "5",
       "dealId": "개인"
     },
     {
@@ -7355,6 +7521,16 @@
     {
       "region": "경기 용인시 수지구",
       "code": "41465",
+      "apt": "동일스위트",
+      "date": "2026-11-17",
+      "price": 98000,
+      "sqm": 84.99,
+      "floor": "13",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
       "apt": "버들치마을성복힐스테이트1차",
       "date": "2026-11-17",
       "price": 106800,
@@ -7860,6 +8036,16 @@
       "price": 76250,
       "sqm": 85.0,
       "floor": "14",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "화서역현대벽산",
+      "date": "2026-11-17",
+      "price": 59500,
+      "sqm": 59.94,
+      "floor": "11",
       "dealId": "개인"
     },
     {
@@ -10063,6 +10249,26 @@
       "dealId": "개인"
     },
     {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
+      "apt": "성복아이파크",
+      "date": "2026-11-16",
+      "price": 89300,
+      "sqm": 105.55,
+      "floor": "3",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
+      "apt": "신명스카이뷰",
+      "date": "2026-11-16",
+      "price": 105000,
+      "sqm": 84.98,
+      "floor": "12",
+      "dealId": "개인"
+    },
+    {
       "region": "경기 용인시 기흥구",
       "code": "41463",
       "apt": "신흥덕롯데캐슬레이시티",
@@ -10560,6 +10766,16 @@
       "price": 53500,
       "sqm": 74.99,
       "floor": "5",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 수원시 장안구",
+      "code": "41111",
+      "apt": "수원아너스빌위즈",
+      "date": "2026-11-16",
+      "price": 75000,
+      "sqm": 84.96,
+      "floor": "31",
       "dealId": "개인"
     },
     {
@@ -11190,6 +11406,16 @@
       "price": 74000,
       "sqm": 126.66,
       "floor": "2",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 고양시 일산동구",
+      "code": "41285",
+      "apt": "일산센트럴아이파크",
+      "date": "2026-11-16",
+      "price": 64900,
+      "sqm": 84.99,
+      "floor": "16",
       "dealId": "개인"
     },
     {
@@ -12265,16 +12491,6 @@
     {
       "region": "경기 남양주시",
       "code": "41360",
-      "apt": "금강",
-      "date": "2026-11-15",
-      "price": 27000,
-      "sqm": 59.86,
-      "floor": "6",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 남양주시",
-      "code": "41360",
       "apt": "평내화성파크힐즈",
       "date": "2026-11-15",
       "price": 40500,
@@ -12450,6 +12666,16 @@
       "price": 34000,
       "sqm": 49.68,
       "floor": "5",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 고양시 일산동구",
+      "code": "41285",
+      "apt": "강촌마을(한신)",
+      "date": "2026-11-15",
+      "price": 68000,
+      "sqm": 94.05,
+      "floor": "4",
       "dealId": "개인"
     },
     {
@@ -13510,6 +13736,16 @@
       "price": 250000,
       "sqm": 84.7,
       "floor": "7",
+      "dealId": "개인"
+    },
+    {
+      "region": "서울 송파구",
+      "code": "11710",
+      "apt": "올림픽선수기자촌1단지",
+      "date": "2026-11-14",
+      "price": 276000,
+      "sqm": 83.06,
+      "floor": "15",
       "dealId": "개인"
     },
     {
@@ -15030,6 +15266,16 @@
       "price": 42700,
       "sqm": 59.84,
       "floor": "8",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
+      "apt": "수지파크푸르지오",
+      "date": "2026-11-14",
+      "price": 138000,
+      "sqm": 59.65,
+      "floor": "15",
       "dealId": "개인"
     },
     {
@@ -19325,6 +19571,26 @@
     {
       "region": "경기 용인시 수지구",
       "code": "41465",
+      "apt": "성복역롯데캐슬파크나인",
+      "date": "2026-11-13",
+      "price": 163000,
+      "sqm": 101.82,
+      "floor": "10",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
+      "apt": "광교더힐",
+      "date": "2026-11-13",
+      "price": 125500,
+      "sqm": 74.47,
+      "floor": "2",
+      "dealId": "개인"
+    },
+    {
+      "region": "경기 용인시 수지구",
+      "code": "41465",
       "apt": "동천디이스트",
       "date": "2026-11-13",
       "price": 130000,
@@ -19340,246 +19606,6 @@
       "price": 190000,
       "sqm": 84.91,
       "floor": "33",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 수지구",
-      "code": "41465",
-      "apt": "보원",
-      "date": "2026-11-13",
-      "price": 94000,
-      "sqm": 59.72,
-      "floor": "11",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "한보라더힐",
-      "date": "2026-11-13",
-      "price": 47000,
-      "sqm": 84.96,
-      "floor": "12",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "센트럴파크원",
-      "date": "2026-11-13",
-      "price": 60000,
-      "sqm": 74.92,
-      "floor": "11",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "녹원마을새천년그린빌(1)",
-      "date": "2026-11-13",
-      "price": 73000,
-      "sqm": 59.51,
-      "floor": "4",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "금화마을4단지주공그린빌",
-      "date": "2026-11-13",
-      "price": 68800,
-      "sqm": 84.43,
-      "floor": "5",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "교동마을현대홈타운",
-      "date": "2026-11-13",
-      "price": 62000,
-      "sqm": 84.99,
-      "floor": "6",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "용인동백두산위브더제니스",
-      "date": "2026-11-13",
-      "price": 79000,
-      "sqm": 78.12,
-      "floor": "5",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "현대홈타운",
-      "date": "2026-11-13",
-      "price": 64000,
-      "sqm": 115.98,
-      "floor": "16",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "금화마을4단지주공그린빌",
-      "date": "2026-11-13",
-      "price": 60000,
-      "sqm": 84.43,
-      "floor": "2",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "힉스유타워",
-      "date": "2026-11-13",
-      "price": 34800,
-      "sqm": 59.79,
-      "floor": "23",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "쌍용(3단지)",
-      "date": "2026-11-13",
-      "price": 37800,
-      "sqm": 84.89,
-      "floor": "14",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 용인시 기흥구",
-      "code": "41463",
-      "apt": "쌍용(3단지)",
-      "date": "2026-11-13",
-      "price": 37500,
-      "sqm": 84.89,
-      "floor": "9",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "오산역e-편한세상2단지",
-      "date": "2026-11-13",
-      "price": 42000,
-      "sqm": 104.83,
-      "floor": "2",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "오산대역 우미린",
-      "date": "2026-11-13",
-      "price": 29500,
-      "sqm": 59.67,
-      "floor": "17",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "오산대역 우미린",
-      "date": "2026-11-13",
-      "price": 31500,
-      "sqm": 59.98,
-      "floor": "16",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "운암주공5단지",
-      "date": "2026-11-13",
-      "price": 26800,
-      "sqm": 59.99,
-      "floor": "11",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "한솔솔파크",
-      "date": "2026-11-13",
-      "price": 32400,
-      "sqm": 84.92,
-      "floor": "12",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "리버빌",
-      "date": "2026-11-13",
-      "price": 17300,
-      "sqm": 59.4,
-      "floor": "2",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "오산KCC스위첸",
-      "date": "2026-11-13",
-      "price": 30000,
-      "sqm": 84.97,
-      "floor": "18",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "서동탄역더샵파크시티",
-      "date": "2026-11-13",
-      "price": 57500,
-      "sqm": 62.0,
-      "floor": "2",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "중흥S-클래스에듀파크",
-      "date": "2026-11-13",
-      "price": 48900,
-      "sqm": 59.98,
-      "floor": "14",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 오산시",
-      "code": "41370",
-      "apt": "세마역에듀파크",
-      "date": "2026-11-13",
-      "price": 36200,
-      "sqm": 59.55,
-      "floor": "3",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 연천군",
-      "code": "41800",
-      "apt": "명정",
-      "date": "2026-11-13",
-      "price": 19000,
-      "sqm": 133.64,
-      "floor": "1",
-      "dealId": "개인"
-    },
-    {
-      "region": "경기 연천군",
-      "code": "41800",
-      "apt": "영풍",
-      "date": "2026-11-13",
-      "price": 5000,
-      "sqm": 64.93,
-      "floor": "3",
       "dealId": "개인"
     }
   ],
@@ -20989,7 +21015,7 @@
             {
               "band": "60㎡ 미만",
               "count": 145,
-              "median": 81500
+              "median": 82000
             },
             {
               "band": "60~84㎡",
@@ -21226,11 +21252,11 @@
       "region": "서울 영등포구",
       "metro": "서울",
       "code": "11560",
-      "count": 317,
+      "count": 320,
       "months": [
         {
           "month": "2026-11",
-          "count": 47,
+          "count": 49,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -21239,8 +21265,8 @@
             },
             {
               "band": "60~84㎡",
-              "count": 20,
-              "median": 146750
+              "count": 22,
+              "median": 135250
             },
             {
               "band": "85~114㎡",
@@ -21257,12 +21283,12 @@
         },
         {
           "month": "2026-10",
-          "count": 144,
+          "count": 145,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 75,
-              "median": 90000
+              "count": 76,
+              "median": 96000
             },
             {
               "band": "60~84㎡",
@@ -21310,7 +21336,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 47,
+      "currentMonthCount": 49,
       "complete": true
     },
     {
@@ -21681,11 +21707,11 @@
       "region": "서울 송파구",
       "metro": "서울",
       "code": "11710",
-      "count": 614,
+      "count": 615,
       "months": [
         {
           "month": "2026-11",
-          "count": 59,
+          "count": 60,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -21694,8 +21720,8 @@
             },
             {
               "band": "60~84㎡",
-              "count": 28,
-              "median": 217500
+              "count": 29,
+              "median": 227000
             },
             {
               "band": "85~114㎡",
@@ -21765,7 +21791,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 59,
+      "currentMonthCount": 60,
       "complete": true
     },
     {
@@ -22318,7 +22344,7 @@
       "region": "인천 부평구",
       "metro": "인천",
       "code": "28237",
-      "count": 1107,
+      "count": 1106,
       "months": [
         {
           "month": "2026-11",
@@ -22376,12 +22402,12 @@
         },
         {
           "month": "2026-09",
-          "count": 362,
+          "count": 361,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 196,
-              "median": 32600
+              "count": 195,
+              "median": 32700
             },
             {
               "band": "60~84㎡",
@@ -23046,11 +23072,11 @@
       "region": "경기 고양시 일산동구",
       "metro": "경기",
       "code": "41285",
-      "count": 454,
+      "count": 461,
       "months": [
         {
           "month": "2026-11",
-          "count": 69,
+          "count": 75,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -23059,13 +23085,13 @@
             },
             {
               "band": "60~84㎡",
-              "count": 41,
-              "median": 45000
+              "count": 46,
+              "median": 44350
             },
             {
               "band": "85~114㎡",
-              "count": 7,
-              "median": 60000
+              "count": 8,
+              "median": 61000
             },
             {
               "band": "115㎡ 이상",
@@ -23077,12 +23103,12 @@
         },
         {
           "month": "2026-10",
-          "count": 202,
+          "count": 203,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 34,
-              "median": 30500
+              "count": 35,
+              "median": 31000
             },
             {
               "band": "60~84㎡",
@@ -23130,7 +23156,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 69,
+      "currentMonthCount": 75,
       "complete": true
     },
     {
@@ -23774,16 +23800,16 @@
       "region": "경기 남양주시",
       "metro": "경기",
       "code": "41360",
-      "count": 1703,
+      "count": 1701,
       "months": [
         {
           "month": "2026-11",
-          "count": 298,
+          "count": 297,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 91,
-              "median": 31000
+              "count": 90,
+              "median": 31150
             },
             {
               "band": "60~84㎡",
@@ -23832,7 +23858,7 @@
         },
         {
           "month": "2026-09",
-          "count": 671,
+          "count": 670,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -23841,7 +23867,7 @@
             },
             {
               "band": "60~84㎡",
-              "count": 360,
+              "count": 359,
               "median": 49500
             },
             {
@@ -23858,7 +23884,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 298,
+      "currentMonthCount": 297,
       "complete": true
     },
     {
@@ -24502,20 +24528,20 @@
       "region": "경기 수원시 장안구",
       "metro": "경기",
       "code": "41111",
-      "count": 577,
+      "count": 591,
       "months": [
         {
           "month": "2026-11",
-          "count": 94,
+          "count": 107,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 49,
+              "count": 55,
               "median": 56000
             },
             {
               "band": "60~84㎡",
-              "count": 33,
+              "count": 39,
               "median": 71000
             },
             {
@@ -24525,20 +24551,20 @@
             },
             {
               "band": "115㎡ 이상",
-              "count": 9,
-              "median": 77800
+              "count": 10,
+              "median": 78900
             }
           ],
           "complete": true
         },
         {
           "month": "2026-10",
-          "count": 286,
+          "count": 287,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 150,
-              "median": 48150
+              "count": 151,
+              "median": 48000
             },
             {
               "band": "60~84㎡",
@@ -24586,7 +24612,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 94,
+      "currentMonthCount": 107,
       "complete": true
     },
     {
@@ -26049,30 +26075,30 @@
       "region": "경기 용인시 수지구",
       "metro": "경기",
       "code": "41465",
-      "count": 940,
+      "count": 964,
       "months": [
         {
           "month": "2026-11",
-          "count": 159,
+          "count": 182,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 42,
-              "median": 86000
+              "count": 48,
+              "median": 86750
             },
             {
               "band": "60~84㎡",
-              "count": 65,
-              "median": 115000
+              "count": 76,
+              "median": 112100
             },
             {
               "band": "85~114㎡",
-              "count": 17,
+              "count": 21,
               "median": 94000
             },
             {
               "band": "115㎡ 이상",
-              "count": 35,
+              "count": 37,
               "median": 110000
             }
           ],
@@ -26080,7 +26106,7 @@
         },
         {
           "month": "2026-10",
-          "count": 477,
+          "count": 478,
           "bands": [
             {
               "band": "60㎡ 미만",
@@ -26099,7 +26125,7 @@
             },
             {
               "band": "115㎡ 이상",
-              "count": 135,
+              "count": 136,
               "median": 103500
             }
           ],
@@ -26133,7 +26159,7 @@
           "complete": true
         }
       ],
-      "currentMonthCount": 159,
+      "currentMonthCount": 182,
       "complete": true
     },
     {
@@ -26413,7 +26439,7 @@
       "region": "경기 파주시",
       "metro": "경기",
       "code": "41480",
-      "count": 925,
+      "count": 924,
       "months": [
         {
           "month": "2026-11",
@@ -26444,12 +26470,12 @@
         },
         {
           "month": "2026-10",
-          "count": 396,
+          "count": 395,
           "bands": [
             {
               "band": "60㎡ 미만",
-              "count": 115,
-              "median": 24100
+              "count": 114,
+              "median": 24200
             },
             {
               "band": "60~84㎡",
@@ -27138,7 +27164,7 @@
       "complete": true
     }
   ],
-  "market_as_of": "2026-11-22",
+  "market_as_of": "2026-11-23",
   "signals": [
     {
       "region": "강남구",
@@ -27211,7 +27237,7 @@
       "ok": true
     },
     {
-      "name": "경기도 철도·정비사업 발표 탐색 (2건)",
+      "name": "경기도 철도·정비사업 발표 탐색 (3건)",
       "ok": true
     },
     {
@@ -27219,7 +27245,7 @@
       "ok": true
     },
     {
-      "name": "서울시 정비사업 발표 탐색 (18건)",
+      "name": "서울시 정비사업 발표 탐색 (5건)",
       "ok": true
     },
     {
@@ -27231,7 +27257,7 @@
       "ok": true
     },
     {
-      "name": "국토교통부 공식자료 탐색 (1건)",
+      "name": "국토교통부 공식자료 탐색 (0건)",
       "ok": true
     },
     {
@@ -27248,7 +27274,7 @@
       "requested": 249,
       "complete": 249,
       "failed": 0,
-      "total_trades": 43389,
+      "total_trades": 43434,
       "note": "최근 3개월 신고된 거래 기준. 거래취소·중복·신고지연 및 면적구성 차이 주의."
     }
   ],
