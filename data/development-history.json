@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-23",
+  "updated_at": "2026-11-24",
   "events": [
+    {
+      "id": "cd6486b72a976acd3f",
+      "category": "rail",
+      "title": "경기도, 철도 파업 대비 비상수송대책 마련…버스 56회·시외버스 93회 증회 - 경기도뉴스포털",
+      "date": "2026-11-23",
+      "source": "공식 도메인 탐색 · gg.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVm5sbFdPMUNHZEpYNVRWSkZSaGp0MzRpYzhOb0lsVU44N0cxbHR5UHVOWFRZZnN3aVh5Z3NtZ3NTODUwem9DaDljYmlyZmlWdWZWUnpLaHI0X2l0eEtZczBVc3Y5bTByc09pZHFtVVdDaEZndm1Xc1ZQa05wWllwdU5wRjIwNVdhVkJraQ?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "경기",
+      "scope": "경기 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
+    },
     {
       "id": "f703d703425f5a75fb",
       "category": "rail",
@@ -15,6 +30,21 @@
       "scope": "경기 전체·지역 미특정",
       "region_exact": false,
       "first_seen": "2026-11-23"
+    },
+    {
+      "id": "d0424e0e999a1a185d",
+      "category": "renewal",
+      "title": "제5차 도시계획위원회 신속통합기획 정비사업 등 수권분과위원회 개최결과 > 보도자료 | 서울특별시 - 서울특별시",
+      "date": "2026-11-21",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwRmh3TEdJQVFkeERLYUE3Tnd5Yk5uR1lqLTZVVGdQN29xSnJpS2tHekhNd2tjdElMaC1KdU5lb1AtSEJsUjUtbmc4MGx2N0hGVE13N1FFQjRDbVhINWxnWEtfanFQYWlFUWkxdnI2aHJnTGg4?oc=5",
+      "stage_hint": "제목에 '계획·심의' 관련 표현",
+      "change_hint": false,
+      "region": "",
+      "metro": "서울",
+      "scope": "서울 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
     },
     {
       "id": "2859c51b5541072816",
@@ -120,6 +150,36 @@
       "scope": "경기 전체·지역 미특정",
       "region_exact": false,
       "first_seen": "2026-11-19"
+    },
+    {
+      "id": "0b6907eeee36d80737",
+      "category": "rail",
+      "title": "제5차 국가철도망 구축계획 대국민 의견수렴 행사 - 인천광역시",
+      "date": "2026-11-13",
+      "source": "공식 도메인 탐색 · incheon.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YMDRwVDJlMnA3TndsMmVHcDctS1R2S2dwa1FSSVBDU2xnUnJNeUg3SENjSW90UHZPdjhnRjNQRlRjU1ZiRTRnQ2NOZ2hwSWlDa00tN1V0dkhsX2s?oc=5",
+      "stage_hint": "제목에 '계획·심의' 관련 표현",
+      "change_hint": false,
+      "region": "",
+      "metro": "인천",
+      "scope": "인천 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "ee959128f0f557bc2e",
+      "category": "rail",
+      "title": "서울도시철도7호선 청라국제도시 연장 건설공사 인천시-건설사업관리단·시공사 간담회 - 인천광역시",
+      "date": "2026-11-12",
+      "source": "공식 도메인 탐색 · incheon.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SUUtNM1JHSEVSMmdMck92cHJ6MFV5Z2FkUmdHbUtnUEZLSFNKVE15bXAwVjV1NmxIN1FLUEF3TU9lbF9rMDREZWI1X2dTRDZNaW8zNkxHd0ZINGM?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "인천",
+      "scope": "인천 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
     },
     {
       "id": "b7601f2a535671bf94",
@@ -255,6 +315,21 @@
       "scope": "서울 전체·지역 미특정",
       "region_exact": false,
       "first_seen": "2026-11-22"
+    },
+    {
+      "id": "c3a5afae400d6cf4e0",
+      "category": "renewal",
+      "title": "정비사업 지원제도 - 인천광역시 추정분담금 정보시스템 - 인천광역시 추정분담금 정보시스템",
+      "date": "2026-11-04",
+      "source": "공식 도메인 탐색 · incheon.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vUFdQSGdhOV81Z1dSTjdTWUs3dFNicmJOaUl0TUhLNFZKLTR2OEZYRktMeHhSTHdQbGtNQnh2M2VwbWZCQjZ1M1ZNaEtkS240ZVEya1FwWUstczAteXFMNnJlWHpmdExYS0FSQnpsUUk2eW00?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "인천",
+      "scope": "인천 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
     },
     {
       "id": "adf405ef980bf1e1bb",
@@ -602,6 +677,36 @@
       "first_seen": "2026-11-22"
     },
     {
+      "id": "e021ae6d3f21530059",
+      "category": "renewal",
+      "title": "정비사업 안내 - 인천광역시 추정분담금 정보시스템 - 인천광역시 추정분담금 정보시스템",
+      "date": "2026-10-07",
+      "source": "공식 도메인 탐색 · incheon.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXF4SjJjcjEtS3M1QmNIUjJYUWJjY3ZtVTg3VXhOb2plS2JNSE1kd0NXOTF0T2w1T0NzOE1sSVdpZVBmQWZTcVRFSkxicmR6VWVVV0pvQ1VKX3VMU1RMa2hBdm03TGxkQS1KX0VHeENVSGcyWWFpZUxxdHJwblVENzVWV0FrRUNVSHI3MExXRUNVT0RqMllJ?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "인천",
+      "scope": "인천 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "fffb0c1eb4bd1ecc87",
+      "category": "renewal",
+      "title": "인천항 내항 1‧8부두 재개발 사업계획 수립(변경) 별첨 - 인천광역시",
+      "date": "2026-10-01",
+      "source": "공식 도메인 탐색 · incheon.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjItUDRZS0hBNDdOSjhGcFFZbWhHVVY2VGJtUUpUR3BhNGhfWEMtWFVqV3BOMl9zcHNoSGdTcXNzUjVYSXhCZE91NnJFZlZiSWZQTVptZGxQUm93TXN5OC1KOExaRjhONjhGOVJBVWxCUUp4QWg5RWZ3QnE5V3IyeHlVVHBSZTVLN2ItNmYwVmlyYzhn?oc=5",
+      "stage_hint": "제목에 '지연·변경' 관련 표현",
+      "change_hint": true,
+      "region": "",
+      "metro": "인천",
+      "scope": "인천 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "4d0cbfcd65086b134c",
       "category": "rail",
       "title": "(상세) - 2026년 제2차 국가철도공단 신입직원 및 체험형 청년인턴 채용 공고 - 국가철도공단",
@@ -662,6 +767,21 @@
       "first_seen": "2026-11-19"
     },
     {
+      "id": "5f8323b619679f2c30",
+      "category": "renewal",
+      "title": "1. 정비구역의 지정 및 정비계획 결정 변경 - 서울도시공간포털",
+      "date": "2026-09-02",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlpSYTNCVGRDeGV4Zi1wNUlmelV4UXEydjVMVy1ZMUxZa3hQMXludUg0MTJVMVhoMUNQbDlWbVBfejcyOVBTZjlXYUIzdTRndlh6d214Yk00WG5OSWQ4ZUF4YW1KSENFNGhvc1JtZ0JfM0pDR0xVbFZUcHJscHphVjNvZVowbHkydDI5elVTZk90ZWs0NW5KQldDUjJSUFNGWmlGeXJ0R0RxSzYyMk1kaE9NYkU?oc=5",
+      "stage_hint": "제목에 '지연·변경' 관련 표현",
+      "change_hint": true,
+      "region": "",
+      "metro": "서울",
+      "scope": "서울 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
+    },
+    {
       "id": "d73edb8bc68ce21457",
       "category": "renewal",
       "title": "[서남권] 사당동 202-29 일대 모아타운 - 분야별 정보",
@@ -681,7 +801,7 @@
       "category": "renewal",
       "title": "[정책소식] 모아주택·모아타운 온라인 아카이브 공개 안내 - 분야별 정보",
       "date": "2026-08-27",
-      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "source": "뉴스 검색 · seoul.go.kr",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LeC1IYXBsU0o5Z3RzUkNzR19fUkxqbkFMblVnNkpMamFHUHl5TDlMLXVyVWszOXFGYWFGS0xJQUFlUFJPUzZ4QTJxUGtvWHMyY2swVFlkUVJ0UnF4b2xF?oc=5",
       "stage_hint": "단계 미확인 (원문 확인 필요)",
       "change_hint": false,
@@ -690,6 +810,36 @@
       "scope": "지역 미특정·노선 전체 가능",
       "region_exact": false,
       "first_seen": "2026-11-19"
+    },
+    {
+      "id": "c04712badb40f48db1",
+      "category": "renewal",
+      "title": "SH공사 , 시흥벽산 등 재개발임대주택 총 1,581세대 공급 - 서울주거포털",
+      "date": "2026-08-27",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSDZKU2x2WW5NaDl1NFlNWGlwQXl3VC13dXFJSHd5aUNBc29xM1MxTFcwU3B3UEVtM0E0SzNLMmNLVXdWOXViS0lLdnFnUnJMNnVMNjdkWGc4cVFVWHZ3NXQyLXZEZzFMZUxLNVVxNmZaMmpVeDFWS3BuOG1MQUd6Z3ZSUnI5bTN2UjVWaVY3S2hadjROUkFFc2E5dklhbXZraGFfRGJubXN3enpaR2I5ZE9QU3kxZFZFaFNZNnVacENVLVYyNTBJcDFTOWE2Rmc1MjhOWWR0MUxBcnZMd21NQzB1QWhPQ1l3MkNjV2FnVjhuOW1wUTJjQVNSNDc1NE1ub0Jr?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "서울",
+      "scope": "서울 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "19cee84f2577fa663c",
+      "category": "renewal",
+      "title": "[설명자료] 재건축 이주비 중복지원 막힌 이유는 - 서울특별시",
+      "date": "2026-08-25",
+      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xRFVWOHllNDV5Sm9hc2hhYVI4anJKQ2xGd29IbDd1c0REMmtNQ0plNXlYaGtva2RjSWZFVUc5WjdoV0xRU25TcjZTM181TmNZUmlvcVFjbms?oc=5",
+      "stage_hint": "단계 미확인 (원문 확인 필요)",
+      "change_hint": false,
+      "region": "",
+      "metro": "서울",
+      "scope": "서울 전체·지역 미특정",
+      "region_exact": false,
+      "first_seen": "2026-11-24"
     },
     {
       "id": "5e418696aafc3f0f68",
@@ -741,7 +891,7 @@
       "category": "renewal",
       "title": "정비사업 > 모아타운 > 취소현황 - 정비사업 정보몽땅",
       "date": "2026-08-06",
-      "source": "공식 도메인 탐색 · seoul.go.kr",
+      "source": "뉴스 검색 · seoul.go.kr",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DSDBSNzZkX0lhMkxyWFRjVkVfVkliMVhYdVZ1dGVnaTh2Y1Q1UDA3ZFk5VDZzbkhKeFhueUpnRU1WbHNobTNGYjM5b2Nnd2U0eW9XM1RUTnlLLVNoWlpmaQ?oc=5",
       "stage_hint": "제목에 '지연·변경' 관련 표현",
       "change_hint": true,
